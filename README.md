@@ -16,7 +16,7 @@ Message me for system prompt and .env :)
    - Create a bot and copy the token
 
 3. **Set up environment variables:**
-   - Copy `env_example.txt` to `.env`
+   - Ask me for `.env`
    - Replace `your_discord_bot_token_here` with your actual bot token
 
 4. **Invite the bot to your server:**
