@@ -1,6 +1,6 @@
-# Basic Discord Bot
+# Junior Discord Bot
 
-A simple Discord bot that responds with "hello" when mentioned.
+Message me for system prompt and .env :) 
 
 ## Setup
 
@@ -30,9 +30,3 @@ A simple Discord bot that responds with "hello" when mentioned.
 ```bash
 python bot.py
 ```
-
-## Usage
-
-Simply mention the bot in any channel where it has access, and it will respond with "hello".
-
-Example: `@YourBot hello there!` 
